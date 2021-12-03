@@ -1,0 +1,3 @@
+[submodule "apistar"]
+	path = apistar
+	url = https://github.com/encode/apistar.git
